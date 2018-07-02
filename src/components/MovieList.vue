@@ -68,4 +68,5 @@ export default {
     console.log(this.day.format('Y-MM-D'));
   }
 };
+
 </script>
